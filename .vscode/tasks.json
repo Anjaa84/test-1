@@ -22,7 +22,7 @@
             "command": "debug-check-prerequisites",
             "args": {
                 "prerequisites": [
-                    "nodejs", // Validate if Node.js is installed.
+                     "nodejs", // Validate if Node.js is installed.
                     "portOccupancy" // Validate available ports to ensure those debug ones are not occupied.
                 ],
                 "portOccupancy": [

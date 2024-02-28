@@ -29,6 +29,7 @@
       "scopes": ["personal", "team", "groupchat"],
       "supportsFiles": false,
       "isNotificationOnly": false
+      
     }
   ],
 
@@ -37,4 +38,5 @@
   "staticTabs": [],
   "permissions": ["identity", "messageTeamMembers"],
   "validDomains": []
+
 }
