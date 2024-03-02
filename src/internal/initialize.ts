@@ -13,6 +13,6 @@ export const notificationApp = new ConversationBot({
   },
   // Enable notification
   notification: {
-    enabled: true,
+    enabled: false,
   },
 });
